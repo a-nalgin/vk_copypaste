@@ -11,7 +11,7 @@ from telebot import types
 
 bot = telebot.TeleBot(token_TG)
 session = vk_api.VkApi(token_VK)
-posts_count = "10"
+posts_count = "100"
 group_name = ""
 channal_name = ""
 
